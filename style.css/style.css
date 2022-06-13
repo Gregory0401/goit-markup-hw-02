@@ -131,7 +131,7 @@ ul {
 /* footer */
 .footer {
     background-color: var(--second-bgr-color);
-  
+
         font-size: 14px;
         font-weight: 400;
         line-height: 1.71;
@@ -139,15 +139,19 @@ ul {
         text-align: left;
         Font-family: Roboto;
             border-radius: nullpx;
+            
 }
 .adress {
     color:var(--white-color);
+    font-style: normal;
 }
 .mail-footer {
     color:var(--white-second-color);
+    font-style: normal;
 }
 .phone-footer {
     color:var(--white-second-color);
+    font-style: normal;
 }
 /* логотип */
 .web {
