@@ -156,30 +156,32 @@ ul {
 /* логотип */
 .web {
     color:var(--accent-color);
-    font-family: Raleway;
-    height: 31px;
-        width: 145px;
-        left: 215px;
-        top: 24px;
-        border-radius: nullpx
+        font-family: Raleway;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        text-align: left;
 }
+       
+    
 .studio {
     color:var(--title-text-color);
-    font-family: Raleway;
-    height: 31px;
-        width: 145px;
-        left: 215px;
-        top: 24px;
-        border-radius: nullpx
+    font-family: Oleo Script;
+        font-size: 26px;
+        font-weight: 400;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        text-align: left;
 }
 .studio-footer {
     color:var(--white-color);
-    font-family: Raleway;
-    height: 31px;
-        width: 145px;
-        left: 215px;
-        top: 24px;
-        border-radius: nullpx
+    font-family: Oleo Script;
+        font-size: 26px;
+        font-weight: 400;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        text-align: left;
 }
 .section {
     background-color:var(--third-bgr-color);
