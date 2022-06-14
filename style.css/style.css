@@ -32,9 +32,13 @@ ul {
         letter-spacing: 0.06em; 
         text-transform: uppercase;
 }
-.button-hero:hover{
-    color:var(--second-accent-color);
+.button-hero:hover {
+    background-color:var(--second-accent-color);
 }
+.button-hero:focus {
+    background-color: var(--second-accent-color);
+}
+
 .button-hero {
     background-color:var(--accent-color);
     color:var(--white-color);
@@ -167,18 +171,18 @@ ul {
     
 .studio {
     color:var(--title-text-color);
-    font-family: Oleo Script;
+    font-family: Raleway;
         font-size: 26px;
-        font-weight: 400;
+        font-weight: 700;
         line-height: 1.19;
         letter-spacing: 0.03em;
         text-align: left;
 }
 .studio-footer {
     color:var(--white-color);
-    font-family: Oleo Script;
+    font-family: Raleway;
         font-size: 26px;
-        font-weight: 400;
+        font-weight: 700;
         line-height: 1.19;
         letter-spacing: 0.03em;
         text-align: left;
